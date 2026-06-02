@@ -1,0 +1,4 @@
+# All PRs require approval from the Reviewers team (Sandeep + Ademola).
+# Specific paths can be added below to require their approval for higher-risk changes.
+
+* @ASI-LDA/reviewers
